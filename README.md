@@ -8,7 +8,7 @@
   
 # Tableau Project SQL Queries
 
-  This is a continuation of the previous project which contains SQL queries used to generate tables to create a Dashboard in Tableau.  
+  This is a continuation of the previous 'Covid Project' which contains SQL queries used to generate tables to create a Dashboard in Tableau.  
   
   Dashboard : https://public.tableau.com/views/CovidDashboard_16305797863100/Dashboard1?:language=en-US&:display_count=n&:origin=viz_share_link
   
