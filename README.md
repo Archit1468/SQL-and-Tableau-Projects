@@ -1,6 +1,7 @@
 # Covid project SQL script
 
   Analysed the real world covid data to find trends and patterns in Vaccinations, Infections and Deaths across the world.
+  
   Skills used : Joins, CTE's, Temp Tables, Windows Functions, Aggregate Functions, Converting Data Types.
   
   Project dataset : https://ourworldindata.org/covid-deaths
